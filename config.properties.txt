@@ -1,0 +1,2 @@
+uname=sowmya
+upasswd="hi"
